@@ -1,0 +1,16 @@
+C:\Users\Paco\Marcos\Classes\ticket\bin\Debug\net5.0\Ticket.exe
+C:\Users\Paco\Marcos\Classes\ticket\bin\Debug\net5.0\Ticket.deps.json
+C:\Users\Paco\Marcos\Classes\ticket\bin\Debug\net5.0\Ticket.runtimeconfig.json
+C:\Users\Paco\Marcos\Classes\ticket\bin\Debug\net5.0\Ticket.runtimeconfig.dev.json
+C:\Users\Paco\Marcos\Classes\ticket\bin\Debug\net5.0\Ticket.dll
+C:\Users\Paco\Marcos\Classes\ticket\bin\Debug\net5.0\ref\Ticket.dll
+C:\Users\Paco\Marcos\Classes\ticket\bin\Debug\net5.0\Ticket.pdb
+C:\Users\Paco\Marcos\Classes\ticket\obj\Debug\net5.0\Ticket.csproj.AssemblyReference.cache
+C:\Users\Paco\Marcos\Classes\ticket\obj\Debug\net5.0\Ticket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paco\Marcos\Classes\ticket\obj\Debug\net5.0\Ticket.AssemblyInfoInputs.cache
+C:\Users\Paco\Marcos\Classes\ticket\obj\Debug\net5.0\Ticket.AssemblyInfo.cs
+C:\Users\Paco\Marcos\Classes\ticket\obj\Debug\net5.0\Ticket.csproj.CoreCompileInputs.cache
+C:\Users\Paco\Marcos\Classes\ticket\obj\Debug\net5.0\Ticket.dll
+C:\Users\Paco\Marcos\Classes\ticket\obj\Debug\net5.0\ref\Ticket.dll
+C:\Users\Paco\Marcos\Classes\ticket\obj\Debug\net5.0\Ticket.pdb
+C:\Users\Paco\Marcos\Classes\ticket\obj\Debug\net5.0\Ticket.genruntimeconfig.cache
