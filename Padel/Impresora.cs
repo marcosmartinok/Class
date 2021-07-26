@@ -1,0 +1,8 @@
+namespace Padel
+{
+    class Impresora
+    {
+        
+
+    }
+}
