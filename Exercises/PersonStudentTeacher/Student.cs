@@ -12,10 +12,6 @@ namespace PersonStudentTeacher
         {
             System.Console.WriteLine("My age is: {0} years old", Age);
         }
-        public override void Greet()
-        {
-            Console.WriteLine("Hello, I'm a student");
-        }
         
     }
 }

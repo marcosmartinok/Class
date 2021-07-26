@@ -1,3 +1,4 @@
+using System;
 namespace PersonStudentTeacher
 {
     abstract class Person
@@ -8,7 +9,10 @@ namespace PersonStudentTeacher
             this.Age = 0;
         }
 
-        public abstract void Greet();
+        public virtual void Greet()
+        {
+            Console.WriteLine("Hello, I am just a regular person");
+        }
         
         public void SetAge(int age)
         {
