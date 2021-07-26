@@ -6,6 +6,11 @@ namespace PersonStudentTeacher
         {
             System.Console.WriteLine("I'm explaining");
         }
+        public override void Greet()
+        {
+            
+            System.Console.WriteLine("Hello! I am a professor");
+        }
         
     }
 }
