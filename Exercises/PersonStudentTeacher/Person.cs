@@ -1,6 +1,6 @@
 namespace PersonStudentTeacher
 {
-    class Person
+    abstract class Person
     {
         public int Age;
         public Person()
@@ -8,10 +8,8 @@ namespace PersonStudentTeacher
             this.Age = 0;
         }
 
-        public void Greet()
-        {
-            System.Console.WriteLine("Hello!");
-        }
+        public abstract void Greet();
+        
         public void SetAge(int age)
         {
             this.Age = age;

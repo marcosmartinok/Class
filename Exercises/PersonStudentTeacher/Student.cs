@@ -1,3 +1,5 @@
+using System;
+
 namespace PersonStudentTeacher
 {
     class Student : Person
@@ -9,6 +11,10 @@ namespace PersonStudentTeacher
         public void ShowAge()
         {
             System.Console.WriteLine("My age is: {0} years old", Age);
+        }
+        public override void Greet()
+        {
+            Console.WriteLine("Hello, I'm a student");
         }
         
     }
